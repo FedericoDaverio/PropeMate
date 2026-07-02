@@ -1,6 +1,6 @@
 # Fundamentos de Matemática para Ingeniería de Audio
 
-**Autor:** Federico Daverio  
+**Profesor:** Federico Daverio  
 **Correo:** <daveriofederico@gmail.com>
 
 ---
