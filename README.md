@@ -36,7 +36,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Notación de ingeniería
 - Conversiones simples
 
-📄 **Presentación:** [01_Unidades_Fundamentales.pdf](slides/01_Unidades_Fundamentales.pdf)
+📄 **Presentación:** [01_Unidades_Fundamentales.pdf](Slides/Unidad1_Unidades_Fundamentales_y_Derivadas_final.pdf)
 
 ---
 
@@ -47,7 +47,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Productos y cocientes
 - Sumas y restas
 
-📄 **Presentación:** [02_Jerarquia_Operaciones.pdf](slides/02_Jerarquia_Operaciones.pdf)
+📄 **Presentación:** [02_Jerarquia_Operaciones.pdf](Slides/Unidad2_Jerarquia_de_Operaciones.pdf)
 
 ---
 
@@ -58,7 +58,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Mínimo Común Múltiplo (MCM)
 - Máximo Común Divisor (MCD)
 
-📄 **Presentación:** [03_Fracciones.pdf](slides/03_Fracciones.pdf)
+📄 **Presentación:** [03_Fracciones.pdf](Slides/Unidad3_Fracciones.pdf)
 
 ---
 
