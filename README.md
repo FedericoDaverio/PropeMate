@@ -15,14 +15,14 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 
 ## Temario
 
-| Tema | Duración | Presentación |
-|:------|:--------:|:------------:|
-| Unidades Fundamentales y Derivadas | 2 h | [📄 Slides](slides/01_Unidades_Fundamentales.pdf) |
-| Jerarquía de Operaciones | 1.5 h | [📄 Slides](slides/02_Jerarquia_Operaciones.pdf) |
-| Fracciones | 2 h | [📄 Slides](slides/03_Fracciones.pdf) |
-| Relaciones y Funciones | 3 h | [📄 Slides](slides/04_Relaciones_y_Funciones.pdf) |
-| Vectores | 2.5 h | [📄 Slides](slides/05_Vectores.pdf) |
-| Sistemas Lineales y Matrices | 4 h | [📄 Slides](slides/06_Sistemas_Lineales_y_Matrices.pdf) |
+| Tema |  Presentación |
+|:------|:------------:|
+| Unidades Fundamentales y Derivadas | [📄 Slides](Slides/Unidad1_Unidades_Fundamentales_y_Derivadas_final.pdf) |
+| Jerarquía de Operaciones |  [📄 Slides](Slides/Unidad2_Jerarquia_de_Operaciones.pdf) |
+| Fracciones |  [📄 Slides](Slides/Unidad3_Fracciones.pdf) |
+| Relaciones y Funciones |  [📄 Slides](slides/04_Relaciones_y_Funciones.pdf) |
+| Vectores | [📄 Slides](slides/05_Vectores.pdf) |
+| Sistemas Lineales y Matrices | [📄 Slides](slides/06_Sistemas_Lineales_y_Matrices.pdf) |
 
 ---
 
