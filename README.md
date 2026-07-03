@@ -20,9 +20,9 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 | Unidades Fundamentales y Derivadas | [📄 Slides](Slides/Unidad1_Unidades_Fundamentales_y_Derivadas_final.pdf) |
 | Jerarquía de Operaciones |  [📄 Slides](Slides/Unidad2_Jerarquia_de_Operaciones.pdf) |
 | Fracciones |  [📄 Slides](Slides/Unidad3_Fracciones.pdf) |
-| Relaciones y Funciones |  [📄 Slides](slides/04_Relaciones_y_Funciones.pdf) |
+| Relaciones y Funciones |  [📄 Slides](Slides/Unidad4_Relaciones_y_Funciones.pdf) |
 | Vectores | [📄 Slides](slides/05_Vectores.pdf) |
-| Sistemas Lineales y Matrices | [📄 Slides](slides/06_Sistemas_Lineales_y_Matrices.pdf) |
+| Sistemas Lineales y Matrices | [📄 Slides](Slides/Unidad6_Sistemas_Lineales_y_Matrices.pdf) |
 
 ---
 
@@ -69,7 +69,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Estudio de funciones
 - Representación gráfica
 
-📄 **Presentación:** [04_Relaciones_y_Funciones.pdf](slides/04_Relaciones_y_Funciones.pdf)
+📄 **Presentación:** [04_Relaciones_y_Funciones.pdf](Slides/Unidad4_Relaciones_y_Funciones.pdf)
 
 ---
 
@@ -92,7 +92,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Matrices y determinantes
 - Métodos de resolución
 
-📄 **Presentación:** [06_Sistemas_Lineales_y_Matrices.pdf](slides/06_Sistemas_Lineales_y_Matrices.pdf)
+📄 **Presentación:** [06_Sistemas_Lineales_y_Matrices.pdf](Slides/Unidad6_Sistemas_Lineales_y_Matrices.pdf)
 
 ---
 
