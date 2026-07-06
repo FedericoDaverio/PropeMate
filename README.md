@@ -21,7 +21,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 | Jerarquía de Operaciones |  [📄 Slides](Slides/Unidad2_Jerarquia_de_Operaciones.pdf) |
 | Fracciones |  [📄 Slides](Slides/Unidad3_Fracciones.pdf) |
 | Relaciones y Funciones |  [📄 Slides](Slides/Unidad4_Relaciones_y_Funciones.pdf) |
-| Vectores | [📄 Slides](slides/05_Vectores.pdf) |
+| Vectores | [📄 Slides](Slides/Unidad5_Vectores.pdf) |
 | Sistemas Lineales y Matrices | [📄 Slides](Slides/Unidad6_Sistemas_Lineales_y_Matrices.pdf) |
 
 ---
@@ -81,7 +81,7 @@ El objetivo de este repositorio es recopilar el material del curso **Fundamentos
 - Coordenadas polares
 - Conversión entre sistemas
 
-📄 **Presentación:** [05_Vectores.pdf](slides/05_Vectores.pdf)
+📄 **Presentación:** [05_Vectores.pdf](Slides/Unidad5_Vectores.pdf)
 
 ---
 
